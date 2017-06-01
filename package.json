@@ -5,7 +5,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "postinstall": "gulp default",
+    "build": "gulp",
     "start": "node ./app/app.js"
   },
   "dependencies": {
