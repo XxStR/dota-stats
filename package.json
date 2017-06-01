@@ -5,7 +5,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "heroku-postbuild": "gulp",
+    "postinstall": "gulp default",
     "start": "node ./app/app.js"
   },
   "dependencies": {
