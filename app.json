@@ -1,7 +1,7 @@
 {
   "name": "Dota 2 Stats",
   "description": "Personal Dota 2 stats",
-  "repository": "https://github.com/verath/dota-stats/",
+  "repository": "https://github.com/XxStR/dota-stats/",
   "success_url": "/",
   "env": {
     "SITE_URL": {
